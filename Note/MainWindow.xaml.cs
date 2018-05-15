@@ -114,6 +114,23 @@ namespace Note
             Save();
         }
 
+        //改變字體大小
+
+        private void ChangeSmall_Click(object sender, RoutedEventArgs e)
+        {
+            Textarea.FontSize --;
+        }
+
+        private void ChangeNormal_Click(object sender, RoutedEventArgs e)
+        {
+            Textarea.FontSize = 20;
+        }
+
+        private void ChangeBig_Click(object sender, RoutedEventArgs e)
+        {
+            Textarea.FontSize ++;
+        }
+
         //改變顏色
 
         private void ChangeGray_Click(object sender, RoutedEventArgs e)
@@ -152,21 +169,6 @@ namespace Note
             TitleBar.Background = Brushes.White;
         }
 
-        private void ChangeSmall_Click(object sender, RoutedEventArgs e)
-        {
-            Textarea.FontSize --;
-        }
-
-        private void ChangeNormal_Click(object sender, RoutedEventArgs e)
-        {
-            Textarea.FontSize = 20;
-        }
-
-        private void ChangeBig_Click(object sender, RoutedEventArgs e)
-        {
-            Textarea.FontSize ++;
-        }
-
         private void Textarea_TextChanged(object sender, TextChangedEventArgs e)
         {
             nowText = Textarea.Text;
@@ -199,6 +201,8 @@ namespace Note
                 this.Close();
             }
         }
+
+        // 縮小
 
         private void MinBtn_Click(object sender, RoutedEventArgs e)
         {
