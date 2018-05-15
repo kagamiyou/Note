@@ -1,0 +1,15 @@
+D:\GITHIB\Note\Note\bin\Debug\Note.exe.config
+D:\GITHIB\Note\Note\bin\Debug\Note.exe
+D:\GITHIB\Note\Note\bin\Debug\Note.pdb
+D:\GITHIB\Note\Note\obj\Debug\Note.csprojResolveAssemblyReference.cache
+D:\GITHIB\Note\Note\obj\Debug\MainWindow.g.cs
+D:\GITHIB\Note\Note\obj\Debug\App.g.cs
+D:\GITHIB\Note\Note\obj\Debug\Note_MarkupCompile.cache
+D:\GITHIB\Note\Note\obj\Debug\Note_MarkupCompile.lref
+D:\GITHIB\Note\Note\obj\Debug\MainWindow.baml
+D:\GITHIB\Note\Note\obj\Debug\Note.g.resources
+D:\GITHIB\Note\Note\obj\Debug\Note.Properties.Resources.resources
+D:\GITHIB\Note\Note\obj\Debug\Note.csproj.GenerateResource.cache
+D:\GITHIB\Note\Note\obj\Debug\Note.csproj.CoreCompileInputs.cache
+D:\GITHIB\Note\Note\obj\Debug\Note.exe
+D:\GITHIB\Note\Note\obj\Debug\Note.pdb
